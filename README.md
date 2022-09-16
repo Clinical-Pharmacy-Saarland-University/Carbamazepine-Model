@@ -12,5 +12,5 @@ PK-Sim Version 9.1.
 # License
 The model is distributed under the GPLv2 License.
 
-Reference
+# Reference
 [[1] Fuhr, L.M.; Marok, F.Z.; Hanke, N.; Selzer, D.; Lehr, T. Pharmacokinetics of the CYP3A4 and CYP2B6 Inducer Carbamazepine and Its Drug–Drug Interaction Potential: A Physiologically Based Pharmacokinetic Modeling Approach. Pharmaceutics 2021, 13, 270.](https://doi.org/10.3390/pharmaceutics13020270)
